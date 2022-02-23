@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The righteous judge a sermon preached at Hertford-Assize, March 10, 1682 / by Edward Hickes, D.D.</title>
+            <author>Hickes, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43645</idno>
+            <idno type="STC">Wing H1836</idno>
+            <idno type="STC">ESTC R38791</idno>
+            <idno type="EEBO-CITATION">18112540</idno>
+            <idno type="OCLC">ocm 18112540</idno>
+            <idno type="VID">106838</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43645)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106838)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1124:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The righteous judge a sermon preached at Hertford-Assize, March 10, 1682 / by Edward Hickes, D.D.</title>
+                  <author>Hickes, Edward.</author>
+               </titleStmt>
+               <extent>[4], 16 [i.e. 24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benj. Tooke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXII [1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains errors in pagination: p. 19-24 numbered 11-16.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Genesis XVIII, 25 --  Sermons.</term>
+               <term>Judgment of God.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106838:1"/>
+            <pb facs="tcp:106838:1" rendition="simple:additions"/>
+            <p>THE Righteous Judge. A SERMON PREACHED At <hi>Hertford</hi>-Aſſize, <hi>March</hi> 10. 1682.</p>
+            <p>By <hi>Edward Hickes,</hi> D.D.</p>
+            <q>
+               <bibl>
+                  <hi>PSAL. 145.17.</hi>
+               </bibl>
+               <p>The Lord is Righteous in all his Wayes, and Holy in all his Works.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benj. Tooke,</hi> at the Ship in St. <hi>Paul</hi>'s Church-yard. MDCLXXXII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:106838:2" rendition="simple:additions"/>
+            <pb facs="tcp:106838:2"/>
+            <head>To the Right Worſhipful Sir <hi>NICHOLAS MILLER,</hi> Knight. High Sheriff of the County of <hi>Hertford.</hi> Juſtice of the Peace, and one of his Majeſty's Deputy Lieutenants for the ſaid County.</head>
+            <opener>
+               <salute>Honoured SIR,</salute>
+            </opener>
+            <p>I Never pretended to be good at any thing; of this I am ſure, I am now bad at Limning; my old Pencil, and decay'd Colours will not do; and beſides, I have no daring hand, ſo that ſhould I offer at a Picture I ſhould wrong the Perſon. Really Sir, It is the ſenſe of my own Weakneſs that frights me from attempting to celebrate your Worth: and the Truth is, it is in vain to light a Candle before the Sun; it is loſt Labour to praiſe him whom all admire; it is ill ſpent pains to gild a Diamond, or paint a Ruby red.</p>
+            <p>This I can truly ſay, That ſince I had the Happineſs to know you, I have had an Ambition to ſerve you, and 'twas that which
+<pb facs="tcp:106838:3"/>made me not diſpute, but readily obey your Commands, when I underſtood you deſigned me for the Pulpit the laſt Aſſize. What I then preached, I am (by unanſwerable Im<g ref="char:EOLhyphen"/>portunity) even forced (much againſt my own Genius) to print.</p>
+            <p>Cenſures I expect to meet with, (why ſhould I think to fare better than my Bet<g ref="char:EOLhyphen"/>ters?) but I ſhall not much regard them; for my Comfort is, that no one can have meaner Thoughts of me than I have of my ſelf, and being already on the Ground I can fall no lower than the Grave; which, by reaſon of my many Indiſpoſitions, I daily ex<g ref="char:EOLhyphen"/>pect. That your worthy ſelf, your truly ver<g ref="char:EOLhyphen"/>tuous Lady, and the two young Gentlemen, your hopeful Sons, may have all the Happi<g ref="char:EOLhyphen"/>neſs that Heaven can give both here and hereafter, is the hearty Prayer of</p>
+            <closer>
+               <dateline>Buckland, <date>March <hi>29. 1682.</hi>
+                  </date>
+               </dateline>
+               <signed>(Honoured Sir) Your moſt obliged Servant, E. Hickes.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:106838:3"/>
+            <head>THE Righteous Judge.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>GEN. 18.</hi> v. <hi>25.</hi> pars ult.</bibl>
+                  <p>Shall not the Judge of all the Earth do Right?</p>
+               </q>
+            </epigraph>
+            <p>IN this Chapter the Sacred Hiſtory ſets be<g ref="char:EOLhyphen"/>fore us an amicable Congreſs and Confe<g ref="char:EOLhyphen"/>rence between the Lord and <hi>Abraham:</hi> the great God, <hi>diſſimulata majestate,</hi> veiling his Maje<g ref="char:EOLhyphen"/>ſty under a humane Shape, with two atten<g ref="char:EOLhyphen"/>dant Angels in the like form, gives him a friend<g ref="char:EOLhyphen"/>ly viſit, re-aſſures to him that high Mercy be<g ref="char:EOLhyphen"/>fore-mentioned, a Son, a Son by <hi>Sarah,</hi> a Son of Promiſe and of Bleſſing, in whoſe Off-ſpring all the Nations of the Earth ſhould be bleſſed; And withall, being upon an Expedition of Judgment,
+<pb n="2" facs="tcp:106838:4"/>the overthrow of <hi>Sodom,</hi> he acquaints him with his Purpoſe and Proceſs therein. In this Diſco<g ref="char:EOLhyphen"/>very the Lord</p>
+            <p n="1">1. Conſults for his own Glory; he reveals his Deſign to his Servant, who would diligent<g ref="char:EOLhyphen"/>ly and duely obſerve and improve it, would be a faithful Regiſter and Relator of it: <hi>The Lord doth his wonderful Works that they may be re<g ref="char:EOLhyphen"/>membred, Pſal.</hi> 3.4. The World is much miſta<g ref="char:EOLhyphen"/>king or oblivious of God's Judgments; thoſe dreadful of late among us, yea ſtill incum<g ref="char:EOLhyphen"/>bent, are but Wonders for a few days: We are apt to forget the Smart ſo ſoon as the Rod is from our Backs.</p>
+            <p n="2">2. God hath here a Tryal and Task for <hi>Abraham</hi>'s Graces, his Charity, his Compaſſi<g ref="char:EOLhyphen"/>on, his Faith, <hi>O quanta juſti fiducia, imo O quanta animi compaſſio!</hi>
+            </p>
+            <p n="1">1. His deep Compaſſion ſtirs up in him the Spirit of Supplication; when he hears of de<g ref="char:EOLhyphen"/>ſtroying he falls a deprecating; Though <hi>Sodom</hi> were exceeding wicked, yet he cannot behold the Ruine of it without Remorſe. When God caſts abroad the Thunder of his Vengeance, how can we but tremble at it though it touch not us? It is a ſign of a ſavage Spirit to look upon Executions with Delight, though of Ma<g ref="char:EOLhyphen"/>lefactors or Enemies. And if it be an Office
+<pb n="3" facs="tcp:106838:4"/>beſeeming a Saint, and grateful to God, to in<g ref="char:EOLhyphen"/>tercede for a <hi>Sodom,</hi> who would not lay out all his Interſſes in Heaven, and draw out his Soul to the utmoſt for a <hi>Sion? Abraham</hi>'s principal drift and care was for the righteous ſuppoſed to be in <hi>Sodom,</hi> for them he buckles and beſtirs himſelf, that they might not be involved in that direful Calamity; and for their ſakes he begs, if not a total Exemption, yet a protra<g ref="char:EOLhyphen"/>ction or mitigation of the Judgment to the whole.</p>
+            <p n="2">2. Conſider how nobly his Faith works and acts it ſelf in his wreſtling with God: He clo<g ref="char:EOLhyphen"/>ſes with him, and comes in upon him with reiterated Inſtances, humble Importunity, that will brook no denial. When he hath got ſome<g ref="char:EOLhyphen"/>thing of God, he doth (as I may ſo ſay) incroach upon his Conceſſions, and muſt have more: He brings down God from fifty to ten, and that <hi>gradatim</hi> in ſix ſeveral ſteps of deſcent. 'Tis im<g ref="char:EOLhyphen"/>poſſible for us to outbid Gods Bounty by our cravings, when they are right and ordinate: his Condeſcenſions will be as large as our Aſcen<g ref="char:EOLhyphen"/>ſions, when they are moſt elevated; the more we ask, the more he grants ſtill, yea he doth and giveth exceedingly abundantly above all that we can ask or think.</p>
+            <pb n="4" facs="tcp:106838:5"/>
+            <p>Why <hi>Abraham</hi> went not beneath the number of Ten cannot be determined; Conjectures of <hi>Jewiſh</hi> Authors are light, becauſe (ſay they) there were Eight in the Ark, which ſaved not the old World from drowning; and with them Ten is the leaſt number to make up a Congre<g ref="char:EOLhyphen"/>gation, under which there could be no Church-Aſſembly amongſt them.</p>
+            <p>'Tis certain, though God doth not ſtint him<g ref="char:EOLhyphen"/>ſelf to a proportion, for ſuch a number of juſt ones to ſpare ſuch a multitude of wicked ones; yet (as we may conclude from <hi>Abraham</hi>'s Peti<g ref="char:EOLhyphen"/>tions and Gods Conceſſions) for the righte<g ref="char:EOLhyphen"/>ous ſake, though but a few, temporal Indul<g ref="char:EOLhyphen"/>gence is afforded to the vaſt heaps of the wick<g ref="char:EOLhyphen"/>ed. This is well obſerved by S. <hi>Ambroſe, Vi<g ref="char:EOLhyphen"/>des quantus murus ſit patriae vir justus, &amp;c.</hi> You ſee what a Wall a righteous, a good man is to his Country, &amp;c.</p>
+            <p>But to proceed, the main Medium or Argu<g ref="char:EOLhyphen"/>ment of perſuaſion uſed and urged by <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> to prevail with God, to ſpare thoſe Cities of <hi>Sodom</hi> and <hi>Gomorrah,</hi> is drawn <hi>ab aequo,</hi> from juſt and right. God delights to be minded of his Attributes, his Glory; to be put in mind of his Mercy, his Faithfulneſs, his Juſtice, as here.</p>
+            <pb n="5" facs="tcp:106838:5"/>
+            <p>The force of the Argument is knit up cloſe together in the few words of my Text. From the <hi>Hypotheſis,</hi> the particular inſtance or caſe of Juſtice, Not to ſlay the righteous with the wic<g ref="char:EOLhyphen"/>ked, to make the righteous as the wicked, the Holy Man aſcends to the <hi>Theſis,</hi> the general Aſſertion of Gods Juſtice; Thou art Judge of all, thou muſt do juſtly: <hi>Shall not the Judge of all the earth do rigbt?</hi>
+            </p>
+            <p>In the words you may be pleaſed to abſerve,
+<list>
+                  <item>I. The Matter.</item>
+                  <item>II. The Manner of their Expreſſion.</item>
+               </list>
+            </p>
+            <p>Firſt, In the Matter or Subſtance are obſer<g ref="char:EOLhyphen"/>vable,
+<list>
+                  <item>1. A Title of Office given to God, <hi>Judge.</hi>
+                  </item>
+                  <item>2. The Extent of his Juriſdiction, <hi>All the earth.</hi>
+                  </item>
+                  <item>3. The Juſtice of his Adminiſtration, <hi>Do right.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. Here's a Judge, and among men, <hi>Judex eſt jus dicens,</hi> a Judge is a perſon ſentencing or pro<g ref="char:EOLhyphen"/>nouncing Law; our Judge is <hi>jus conſtituens,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Law-giver, the Law-maker, as well as the Law-diſpenſer.</p>
+            <p n="2">2. Here's an univerſal Judge, <hi>Judge of all the earth.</hi> Earth doth not ſo much denote the round heap on which we tread, as the Inhabitants that live and walk on it, Men; neither may we take the term of Univerſality as excluſive, <hi>All the earth,</hi>
+               <pb n="6" facs="tcp:106838:6"/>and no more; Heaven and Hell are under the ſame Dition. God is Judge of Men and Devils, quick and dead, good and bad; all muſt paſs his Judgment of Diſcuſſion, and receive a Sen<g ref="char:EOLhyphen"/>tence either of Abſolution or Condemnation.</p>
+            <p n="3">3. Therefore here is a juſt Judge; ſhall not ſuch a Judge do right? Particular or ſubordi<g ref="char:EOLhyphen"/>nate Judges are accountable to their Superiours; this Judge onely doth all, and what he will, and ows Account to none. In inferiour Judges Ju<g ref="char:EOLhyphen"/>ſtice is, <hi>Virtus executiva &amp; miniſtrans,</hi> it ſerves and executes the Laws; in the ſupreme it is <hi>Archite<g ref="char:EOLhyphen"/>ctonica, imperans &amp; praecipiens quod juſtum est;</hi> it founds, and forms, and preſcribes what is juſt. If by the Philoſophers deſcription a Man-judge muſt be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Jus Animatum,</hi> Souled or Living Juſtice; much more muſt God the Judge be infinite, everliving, everlaſting juſtice, yea <hi>norma juſtitiae,</hi> the abſolute rule, the total ſumm, the entire eſſence of juſtice. And being ſuch a Judge, ſhall he not exerciſe or do right?</p>
+            <p>And what's that? To adjudicate and diſtri<g ref="char:EOLhyphen"/>bute <hi>aequalia aequalibus,</hi> in an equality of propor<g ref="char:EOLhyphen"/>tion to give to all what belongs to them, to ma<g ref="char:EOLhyphen"/>nage and diſpoſe all perſons, things, and paſſa<g ref="char:EOLhyphen"/>ges, according to the righteouſneſs which is in himſelf and his own will.</p>
+            <pb n="7" facs="tcp:106838:6"/>
+            <p>Secondly, the Phraſeology, or manner of Enuntiation of the words, is not to be omitted; 'tis Expoſtulatory by way of Interrogation, it is <hi>Interrogatio Affirmantis.</hi> The Queſtion carries in it the weight of a vehement Affirmation, <hi>Shall not the Judge of all the earth do right?</hi> Yes he ſhall, he muſt, he will, he cannot but do right. See here;</p>
+            <p>It is an infallible grand Truth, <hi>That God the univerſal infinite Judge, is moſt righteous in all his doings and diſpenſations.</hi>
+            </p>
+            <p>If the Earth ſhould be ſilent or perverſe in hi<g ref="char:EOLhyphen"/>ding or blemiſhing this Truth, the Heavens will ſpeak it out; they will <hi>declare Gods righteouſ<g ref="char:EOLhyphen"/>neſs,</hi> and ſay, <hi>God is Judge himſelf, judex ipſe,</hi> or as ſome render it, <hi>judex ſummè,</hi> the judge, or the judge in chief, <hi>Pſal.</hi> 50.6. The beſt of men have been large and loud in celebrating of Di<g ref="char:EOLhyphen"/>vine Righteouſneſs: <hi>Moſes</hi> with ſome of his laſt breath, which ſavours moſt ſtrongly of Heaven, ſings it out ſweetly, <hi>Deu</hi> 32.4. <hi>He is the rock</hi> (ſtrong and immutable) <hi>his work is perfect</hi> (whatever he doth, he doth it purely and fully, without default or defect) <hi>all his ways are judgment; a God of truth, and without iniquity, juſt and right is he.</hi> And with him tunes the Sweet-Singer of <hi>Iſrael</hi> in ſeveral places of his ſacred Hymns; take one inſtead of many, <hi>Pſal.</hi> 145.17. <hi>The Lord is righteous in all his
+<pb n="8" facs="tcp:106838:7"/>ways, and holy in all his works.</hi> Ways are his diſpo<g ref="char:EOLhyphen"/>ſitions, Works his doings. In all of theſe from the firſt to the laſt, from the greateſt to the leaſt, righteouſneſs and holineſs perſpicuouſly ſhine forth and bear ſway. But what need I heap up Scriptures, as if it were difficult to perſuade your conſent to this truth: Surely they who do not now believe it, will one day fee to their ſmart and confuſion, that God is juſt.</p>
+            <p>Yet give me leave to lay down two grounds of proof to render this more evident to you, and to ſet it home upon your Spirits.</p>
+            <p>Firſt, in our Judge there are all the Properties that may ſpeak him righteous. There are three principal requiſites in a juſt Judge; <hi>Zelus recti<g ref="char:EOLhyphen"/>tudinis, Poteſtas, &amp; Prudentia;</hi> Zeal of right, Pow<g ref="char:EOLhyphen"/>er, and Prudence. Theſe are truly and eminent<g ref="char:EOLhyphen"/>ly in God.</p>
+            <p n="1">1. In God is a Zeal, a ſtrong Propenſion and Affection to right and juſtice. <hi>The righteous God loveth righteouſneſs, Pſal.</hi> 11.7. It ſuits his nature, pleaſes his heart, correſponds to his will, advances his glory. All the world therefore cannot biaſs or bend him beſides the ſtreight line of righteouſneſs.</p>
+            <p>
+               <hi>Fabritius</hi> among the <hi>Romans</hi> was famous for juſtice. <hi>Pyrrhus</hi> would fain have won him to his Party; to that end one day he offered him
+<pb n="9" facs="tcp:106838:7"/>heaps of Treaſure, on the next he brought him into a room where a huge Elephant was hid be<g ref="char:EOLhyphen"/>hind the Hangings. On a ſudden the Curtain was drawn, the Elephant appeared, and ſmote the man on the head with his Trunk. With an unchanged Countenance he told <hi>Pyrrhus,</hi> Yeſter<g ref="char:EOLhyphen"/>day thy Gold did not move me, nor to day thy Beaſt. Oh for ſuch men nowadays! 'Tis much to find this in a man; but neither Flatteries nor Frowns, nor any reſpects whatſoever, can move the Lord from the love and practice of Juſtice.</p>
+            <p n="2">2. In God there is Authoritative Power; who dares deny or queſtion his Sovereignty? All power is primitively in him, and derivatively from him. Kings, though they be mens Sove<g ref="char:EOLhyphen"/>reigns, yet are they Gods Subjects. <hi>He is God of Gods, and Lord of Lords; a great God, a migh<g ref="char:EOLhyphen"/>ty, a terrible, and therefore regardeth not per<g ref="char:EOLhyphen"/>ſons, nor taketh rewards;</hi> but executeth judg<g ref="char:EOLhyphen"/>ment exactly, <hi>Deut.</hi> 10.18. <hi>Ariſe, O God, judge the earth</hi> (ſaith <hi>David, Pſal.</hi> 82.7.) <hi>for thou inheriteſt all nations.</hi> Whoever hath the Nations, God owns them, they are his propriety. Uſurpation ſel<g ref="char:EOLhyphen"/>dom or never goes without male-adminiſtrati<g ref="char:EOLhyphen"/>on; but Right and Mght-meeting in God to the full, diſpoſe him to abſolute and exact Juſtice.</p>
+            <pb n="10" facs="tcp:106838:8"/>
+            <p n="3">3. In God is all-ſeeing unerring Wiſdom; he clearly and certainly diſcerns all perſons and caſes: not a Creature can creep out of his ſight. <hi>All things are naked and open to the eyes of him with whom we have to do, Heb</hi> 4.13. not onely uncloath<g ref="char:EOLhyphen"/>ed, but unskinned; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the word is borrowed (ſay ſome) from Wreſtlers, who take their Adverſaries by the Neck, caſt them on their Back, and ſo their Faces are upward, and their Dimenſions diſcernible. Others think the term to be taken from Anatomiſts, who ſtrip off the Skin, open the Bulk, look into the Bowels, into the Intrals, &amp;c. So narrowly and thorowly doth our God ſearch us. He is a moſt prudent, piercing, quick-ſighted Judge; <hi>His eyes behold, his eyelids try the children of men, Pſal.</hi> 11 4. He hath Eyes beholding ten thouſand times clearer than the Sun, from eternity, and every moment ha<g ref="char:EOLhyphen"/>ving before him all Generals at once, Eyelids contracted and diving into the cloſeſt and nar<g ref="char:EOLhyphen"/>roweſt particulars.</p>
+            <p>Power without Prudence is bruitiſh Force, prone to be injurious; but our God is <hi>great in counſel,</hi> as well as <hi>mighty in works, Jer.</hi> 32.19. and therefore completely apted to be a righte<g ref="char:EOLhyphen"/>ous Judge.</p>
+            <p>Secondly, the high things that God hath to diſcern, diſpoſe, and do, neceſſarily require a
+<pb n="11" facs="tcp:106838:8"/>perfect righteouſneſs to manage them. God's doings or diſpenſations towards the Creature are threefold, <hi>viz.</hi> Providential, Gracious, and Judiciary.</p>
+            <p n="1">1. The charge of all things for their being, continuance, and diſpoſition, lies wholly on the head and hands of Divine Providence. And what but abſolute infinite Juſtice can ſway and order ſuch a charge! Men that rule over men muſt be juſt, otherwiſe Confuſion and Ruine will break in like a Deluge. Juſtice is the ſta<g ref="char:EOLhyphen"/>bility of Thrones, the <hi>baſis</hi> of Commonwealths, the cement of Societies, the heart and life of publick and perſonal good. And if God were not moſt juſt that rules over all, the Earth could not ſtand, nor the Heavens move, nor the Sun ſhine, nor the Univerſe ſubſiſt a moment. <hi>For ever (O Lord) thy word is ſettled in Heaven;</hi> thy commanding, ruling Word; <hi>thy faithfulneſs is to all generations.</hi> Here's Uprightneſs com<g ref="char:EOLhyphen"/>menſurate to the Rule, as large and laſting as that. And for an experimental proof of this, the very Earth gives it, <hi>abiding in thy Eſtabliſh<g ref="char:EOLhyphen"/>ment, and all thine Ordinances;</hi> thy Laws of Providence continue to this day, <hi>for all are thy Servants, Pſal.</hi> 119.89. The vaſt houſhold of the Creatures regulated in ſuch an admirable <hi>deco<g ref="char:EOLhyphen"/>rum,</hi> ſhew that they have a righteous Maſter.</p>
+            <pb n="12" facs="tcp:106838:9"/>
+            <p n="2">2. In all gracious dealings God is and muſt be moſt righteous. He will not loſe nor abate an atom of juſtice in the multitude of his mercies. The Lord who is merciful, gracious, long-ſuf<g ref="char:EOLhyphen"/>fering, abundant in goodneſs and truth, will by no means clear the guilty, waſhes out every ſpot of our guilt in the bloud of his Son; in him re<g ref="char:EOLhyphen"/>ceives full ſatisfaction, to the ſtricteſt demands of his juſtice on our behalf. 'Tis the main ſtay of our Faith and Comfort, that God ſets forth and accepts Chriſt a Propitiation, and ſo <hi>de<g ref="char:EOLhyphen"/>clares his righteouſneſs,</hi> as well as his grace, <hi>in the remiſſion of fins, is juſt in juſtifying Belie<g ref="char:EOLhyphen"/>vers, Rom.</hi> 3.25, 26. <hi>is faithful and juſt in forgiving,</hi> 1 <hi>John</hi> 19.</p>
+            <p n="3">3. Gods judgments paſt, preſent, and to come, particular and univerſal, require and ſhew him righteous. He is known to be ſo <hi>by the judg<g ref="char:EOLhyphen"/>ments he executeth, Pſal.</hi> 9.16. If he were not righteous in taking vengeance, <hi>how could he judge the world? Rom.</hi> 3.5, 6. If we will but open our eyes, we may ſee the vengeance viſi<g ref="char:EOLhyphen"/>bly juſt and dreadful, and ſay, <hi>Verily he is a God that judgeth in the earth.</hi> O the ſtupendious equi<g ref="char:EOLhyphen"/>ty of Gods retaliating juſtice! how doth it pay Sinners in their kind! plaguing Drunkenneſs with rage, Adultery with rottenneſs of bone, ſtaining the glory of Pride, and pouring con<g ref="char:EOLhyphen"/>tempt
+<pb n="13" facs="tcp:106838:9"/>upon the Honourable of the Earth! But if we could look further to that great day, wherein he hath appointed to judge the World in righteouſneſs, by him whom he hath ordain<g ref="char:EOLhyphen"/>ed; could we ſeriouſly ſet before our view that great white Throne, and him that ſits upon it, from whoſe face the Earth and the Heaven ſhall flee away, before whom ſmall and great ſhall ſtand, and receive a righteous doom out of the Books, the faithful Records of Heaven, <hi>Rev</hi> 20. <hi>ult.</hi> we may conclude certainly ſuch a Judge ſhall do right.</p>
+            <p>The Truth is clear you ſee, and it will be very uſeful if we can im prove it aright.</p>
+            <p n="1">1. It may ſerve to vindicate God; 'tis a ſad Caſe when poor Mortals muſt plead for God. Bad men are apt to conceit that God is <hi>incurio<g ref="char:EOLhyphen"/>ſus &amp; quaſi negligens humanorum actuum, Salv.</hi> re<g ref="char:EOLhyphen"/>gardleſs or neglective of humane Affairs, yea ſcarce equal in his Ways, when they tranſcend their Senſe, or croſs their Humours, Intereſſes or Ends: and ſome of the beſt have been ſtag<g ref="char:EOLhyphen"/>gered and perplexed, when in outward Events they ſee that befalling good men which they hold proper to the Wicked, <hi>&amp; è contra.</hi> It was thus with the Author of the 73 <hi>Pſal. per totum,</hi> with <hi>Jer.</hi> 12.1. <hi>Righteous art thou, O Lord, when I plead with thee,</hi> (ſays he) he doth well to
+<pb n="14" facs="tcp:106838:10"/>yield! the Victory before hand to God in the Diſpute; <hi>yet let me talk with thee of thy Judgments;</hi> yet he thinks the matter may come to a modeſt Parly: <hi>Wherefore doth the way of the Wicked proſper? Wherefore are all they happy that deal very treache<g ref="char:EOLhyphen"/>rouſly?</hi> And why is the Deſert of the Wicked ſo often the Lot of the Juſt?</p>
+            <p>To ſtop the Mouth of the one, and to ſa<g ref="char:EOLhyphen"/>tisfie the Scruples of the other, let me lay be<g ref="char:EOLhyphen"/>fore you theſe Conſiderations.</p>
+            <p n="1">1. God is juſt in things that we cannot ſee nor ſound. <hi>His Righteouſneſs is like the great Mountains;</hi> firm and ſtable, when his Judg<g ref="char:EOLhyphen"/>ments are a great Deep not to be meaſured, <hi>Pſal.</hi> 36.6. <hi>His way is in the Sea, his Path in the great Waters, his Foot ſteps are not known, Pſal</hi> 77. 19. yet then moſt pure and regular. I have heard, that in a Conteſt between a great No<g ref="char:EOLhyphen"/>ble-man and a learned-Judge of this Nation, the Judge urged Law; the Noble-man ſaid, I thought your Laws had been conſonant to Reaſon; yes (replyed the Judge) ſo they are, they are made up of the Quinteſſence of Rea<g ref="char:EOLhyphen"/>ſon, but that comes not within the compaſs of every Cap. Muſt you ſee Senſe and Reaſon of your own in gods Doings, or elſe diſ<g ref="char:EOLhyphen"/>pute the Juſtice of them, Hear <hi>Salvian, Summa ſaſticed est Voluntas Dei</hi> The Will of God is the
+<pb n="15" facs="tcp:106838:10"/>top of Juſtice, and his Wiſdom the rule of it: neither is any thing unjuſt that God doth, — <hi>Quia capere vim divinae juſticae, homo non valet</hi> (to uſe his own Words) becauſe Man cannot com<g ref="char:EOLhyphen"/>prehend the ſcope and force of God in it. Learn we therefore to ſtoop, and tremble, and admire what we cannot fathom.</p>
+            <p n="2">2. God is juſt in all the Shuffles and ſeem<g ref="char:EOLhyphen"/>ing Confuſions in the world; <hi>He hath his way in the Whirlwind and the Storm, Naum</hi> 1.3. <hi>The ſtormy Wind fulfills his Will, Pſal.</hi> 148 8. What ſo turbulent, tumultuous, unruly as the Storm, yet that varies not an hair, a tittle for the Bounds of divine Command? Things that ſeem immethodical and diſorderly to us, are moſt comely in God's Eye and Diſpoſal. A Tradeſ-man hath the richeſt Market when his Wares are drawn out and ſcattered about the Shop, he knows how and when to put them into their places: ſo are there largeſt Acorue<g ref="char:EOLhyphen"/>ments to the glory of Divine Wiſdom, Power, and Juſtice, in the variety and ſtrangneſs of events and paſſages; all which God holds in his hand, weighs in his balance guides with his eye, and hath his times of reſtitution, when he will ſet all right and in their proper places, <hi>Act.</hi> 3.21.</p>
+            <p n="3">3. God is juſt in mens in juſtice. Execution<g ref="char:EOLhyphen"/>ers are commonly the baſeſt of the people, and
+<pb n="16" facs="tcp:106838:11"/>the Hangman ofttimes deſeryes the Halter, as much as he that ſuffers under him; yet that doth not derogate from the juſtice of the Law or Judge. <hi>Why boaſteſt thou thy ſelf in miſchief, O mighty man? the goodneſs of God endureth contiuually, Pſal</hi> 52.1 Let men be never fo inſolent in miſchief, God is conſtant in goodneſs he is faithful and juſt in that wherein they are falſe and injurious. The beſt Antidote againſt <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>oi<g ref="char:EOLhyphen"/>ſon and Peſtilential Diſeaſes, is made of the fleſh of Vipers; and hath not God the art (think you) to extract Honour to his Name, and Heal<g ref="char:EOLhyphen"/>ing to the Nation, out of the rankeſt venom of wicked men.</p>
+            <p n="4">4. God is juſt; and ſo to be acknowledged in things that are moſt adverſe to us. We are ſin<g ref="char:EOLhyphen"/>ners, and therefore muſt <hi>juſtifie God when he ſpeaks, and clear him when he judges,</hi> though it be againſt our ſelves, <hi>Pſal.</hi> 51.4. <hi>I know, O Lord, that thy judgments are right, and that thou in faithful<g ref="char:EOLhyphen"/>neſs haſt afflicted, Pſal.</hi> 119.75. Hypocrites will praiſe Gods juſtice when it plagues others; and never blame his ſeverity, whileſt it touches not their own skin. We ſhould be the ſharpeſt Cenſors of our ſelves, and then we will aſſert Gods faith fulneſs in our heavieſt afflictions. In<g ref="char:EOLhyphen"/>deed we are apt to grumble againſt God, when we ſuffer hard things in the world, unworthily
+<pb n="17" facs="tcp:106838:11"/>and in juriouſly as we conceive: But in that the beſt of men and cauſes go ſo much to the worſt, in the world, it is a manifeſt token of the righteous judgment of God, who ſways all for the preſent, and will rectific all in due time for the good of his people, 2. <hi>Theſ.</hi> 1.5.</p>
+            <p n="5">5. God is ever juſt, but the diſcoveries and executions of his juſtice he reſerves in his power for his own time. We are too haſty with him, and becauſe judgment is not ſpeedily executed think it will never come. But will ye reproach a Workman as if he were a Bungler, whileſt he is hewing and ſquaring his pieces? Stay till the whole be framed and put together, and then the Artifice with appear. The <hi>China</hi> Clay, of which thoſe curious brittle Trifles are compoſed, they ſay is moulded in one Age, and made up in ano<g ref="char:EOLhyphen"/>ther, and will you not give the Lord leave (with whom a thouſand years are but as one day) to take his own time about his own glorious Works.?</p>
+            <p n="2">2. this may ſerve to confound the wicked. Imagine what horror poſſeſſes the ſhackled Ma<g ref="char:EOLhyphen"/>lefactors, conſcious to themſelves of capital crimes, when they hear of the Judges coming. It is ſaid <hi>Foelix</hi> trembled when he heard <hi>S. Paul</hi> preach of judgment to come. Tremble ye ſin<g ref="char:EOLhyphen"/>ners, behold here your Judge!</p>
+            <pb n="18" facs="tcp:106838:12"/>
+            <p>And of all ſinners theſe have moſt reaſon to tremble.</p>
+            <p n="1">1. Great over grown, unruly ſinners, that out<g ref="char:EOLhyphen"/>brave their fellow Mortals, and are too big to be dealt with by men; here's a Judge can ham<g ref="char:EOLhyphen"/>per them, at whoſe Bar they muſt hold up the hand ſtand naked and ſhivering, as well as the vileſt Wretch that crawls on the earth. They can then have no advantage of a Jury to ſecure them, there will beno doublt of the Evidence, no queſtion but the Bill of Indictment will be be found, and Sentence paſs accordingly.</p>
+            <p n="2">2. Injurious violent ſinners, Birds of Prey, ravenous Beaſts. Read their doom <hi>Pſal.</hi> 5,6. <hi>The wicked</hi> (and of all wicked ones, them that love violence, <hi>the Lord hates with his Soul</hi> See his ſpecial Indignation againſt them; his dealing with them will diſcover his Affection to them; <hi>Upon them he will rain ſnares Rain</hi>] There's the inevitableneſs of the Judgment; as ſoon can the Earth ſhrink from the deſcending Showers, as they from deſerved Vengeance. <hi>Snares</hi>] there's unexpected Sur<g ref="char:EOLhyphen"/>priz<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Fire and Brimſtone</hi>] there's the ſharpneſs of the tortured <hi>an horrible Tempest</hi>] there's Hel<g ref="char:EOLhyphen"/>liſh terrour <hi>all this the portion of their Cup</hi>] as proper to the as the Meat they eat, the Drink they pour down their Throats.</p>
+            <pb n="11" facs="tcp:106838:12"/>
+            <p n="3">3 Enormous diſorderly Sinners, that heap up ſins without number or meaſure; that Bank<g ref="char:EOLhyphen"/>rupt-like when they are once over ſhooes, run into evil over head and ears, never caſting up an account or payment. Let them know that God keeps account, though they do not, catalogues every act and circumſtance, and will one day <hi>ſet all in order,</hi> in full weight and tale, <hi>before their eyes,</hi> as they are now before his own, <hi>Pſal.</hi> 50.21.</p>
+            <p n="4">4 Cunning Sinners, that over or colour Abominations, as if God could not ſee Secrets, ſearch Hearts, ſift Perſons and Cauſes to the bot<g ref="char:EOLhyphen"/>tom, diſtinguiſh truth from ſshapes, though ne<g ref="char:EOLhyphen"/>ver ſo ſpecious; as if they would impoſe upon their Judge by falſe pleas or fair pretences. Aſ<g ref="char:EOLhyphen"/>ſoon can they hinder the Sun from ſhining upon the face of the Earth, by the inter poſition of their Hand. No, no; their own deceitfulneſs will prove their own ruine, and the iſſue of their cunning will be, that they will ſteal craftily in<g ref="char:EOLhyphen"/>to everlaſting miſery.</p>
+            <p n="5">5 Secure Sinners, that think God like them<g ref="char:EOLhyphen"/>ſelves, regardleſs whileſt ſilent; that do <hi>cubile ſternere, potius quam tribunal erigere;</hi> in their con<g ref="char:EOLhyphen"/>ceits rather make a Bed for God to ſleep on, than erect a Seat for Judgment. 'Tis moſt cer<g ref="char:EOLhyphen"/>tain, that <hi>the damnation of ſuch ſlumbers not,</hi> 2. <hi>Pet.</hi> 2.3.</p>
+            <pb n="12" facs="tcp:106838:13"/>
+            <p>In a word; All impenitent Sinners that re<g ref="char:EOLhyphen"/>main in an unreconciled ſtate, obnoxious to Gods revenging juſtice, may be as men Thun<g ref="char:EOLhyphen"/>der-ſmitten by this truth. For,</p>
+            <p n="1">1. Here's your Judge, before whoſe face you muſt appear to render a full account of all things done in the fleſh, and that in a cloar, ſo<g ref="char:EOLhyphen"/>lemn, glorious way. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou ſhall not be behead<g ref="char:EOLhyphen"/>ed in priſon, drowned in a Well, ſmothered in a Bed, made away in a corner, periſh in ſilence; God takes care as for the execution, ſo <hi>the reve<g ref="char:EOLhyphen"/>lation of his righteous judgment, Rom. 2.5.</hi>
+            </p>
+            <p>Conſider his proceedings towards <hi>Sodom;</hi> he inquires, charges, finds guilty, and then exe<g ref="char:EOLhyphen"/>cutes, ſo that the World rings of it. This is <hi>Similitudo futuri judieii, Iſid</hi> A little reſemblance of the great Judgment. When the <hi>Lots,</hi> the faithful ones of God, ſhall be conveyed to the Mountains the everlaſting Hills; the wicked ſhall be ſwallowed up into thoſe black Flames, that dead Sea from whence there's no redemp<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="2">2. In all this, feverity there is nothing but Ju<g ref="char:EOLhyphen"/>ſtice. The Judge does you right, gives, you your due, renders to you according to your de<g ref="char:EOLhyphen"/>merits; this is your Wages, (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Souldiers Pays</hi>) proper for your Work to Men and Angels will appland the righte ouſneſa and God will
+<pb n="13" facs="tcp:106838:13"/>be <hi>eternally glorified in taking the <g ref="char:V">Ʋ</g>engeance,</hi> 2 <hi>Theſſ.</hi> 1. 8, 9, 10.</p>
+            <p n="3">3. This Doctrine of Divine Righteouſneſs gives direction to them that are intruſted with Government and Judgment among men, here's the beſt of Paterns for them, God the Judge, the beſt of Rules, to do right.</p>
+            <p>And bleſſed be God, that we have no juſt cauſe to complain of publick wrong. Have we not our Religion, Laws, Lives, Liberties, and Properties fecured to us? What do we want, which any Nation under the cope of Hea<g ref="char:EOLhyphen"/>ven can wiſh for? Happy we, did we but know our happineſs.</p>
+            <p>Have we not a King ſo clement, ſo merciful, that ſome have been ready to think, that his mency to others hath proved injutious to him<g ref="char:EOLhyphen"/>ſelf? A ſecond <hi>Titus</hi> (as he hath been called) who never willingly ſent away any suitor ſad or diſcontented from him, and under whom the Unfortunate fall gently.</p>
+            <p>What Laws more good and equitable than ours? What more wholeſom and helping, if duly executed? Ancient Law-makers derived the Pedigree of their Laws from their-Gods. <hi>Lycurgus</hi> father'd his upon <hi>Apolle</hi> at <hi>Delphos. Numa</hi> pretended his to the Nymph <hi>Ageria.</hi> If we had Laws dropt out of Heaven, they
+<pb n="14" facs="tcp:106838:14"/>would do us no good without execution.</p>
+            <p>I might go on, and inſtance in every particular, (if the time would permit me) and ſhew that we have all the Elements of Felicity; but our unhappineſs is, that we cannot form them to our own content.</p>
+            <p>Some there are who find fault with every thing, becauſe they will be ſatisfied with no<g ref="char:EOLhyphen"/>thing.</p>
+            <p>Religion is pretended, but Piety in many appears to be no more than Carnal Policy, and in ſome a miſguided Zele for the Intereſt of their own Party.</p>
+            <p>Some men are ſo bewildered, ſo loſt in the miſts of their Opinions, and ſmoke of their paſſions, that the Light they boaſt of prove<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no better than an <hi>Ignis fatuus</hi> to lead them out of the way, and into the Ditch of Ruine and De<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <p>Some cry out of Perſecution, when men are Sufferers merely becauſe they are evil doers.</p>
+            <p>How many are there whoſe Muſick confiſts in Diſcord? They pretend to love Truth, and yet hate Peace. Like <hi>Salamanders</hi> they delight to live in the flames, and are never better plea<g ref="char:EOLhyphen"/>ſed, than when they are warming themſelves by a Fire of their own kindling.</p>
+            <pb n="15" facs="tcp:106838:14"/>
+            <p>At the time of the Battel at <hi>Traſimenum,</hi> be<g ref="char:EOLhyphen"/>tween <hi>Hannibal</hi> and the <hi>Romans,</hi> there was ſuch an Earthquake as overthrew a great part of moſt of the Cities in <hi>Italy;</hi> yet not one of the Fighters that were at it in the heart of the Coun<g ref="char:EOLhyphen"/>try felt the Motion. Men are ſo fiercely intent on their own Intereſſes and Quarrels, that they are quite ſenfleſs of publick Hazards and Ru<g ref="char:EOLhyphen"/>ines.</p>
+            <p>But theſe things are an apter Subject for Tears than Words; here the Eye may be more liberal in its dropping Language, than the Tongue in moſt fluent Eloquution.</p>
+            <p>I dare not ſtay you any longer from the weighty publick Affairs; in a word then,</p>
+            <p>Laſtly, feeing there is ſuch a Judge, a Judge of all, that doth and will do right, before whoſe Face we muſt all ſhortly appear: Let us ſup<g ref="char:EOLhyphen"/>plicate our Judge, make him our Friend, agree with our Adverſary quickly in the way, paſs our Accounts betimes, aſſure Reconciliation in the Bloud of the Covenant, engage Gods righ<g ref="char:EOLhyphen"/>teouſneſs as well as his mercy for our good by believing: and then the Judge will plead our Cauſe, right our Wrongs, clear up our Integrity, quiet our Spirits, and crown our Patience. When the Faces of all wicked ones ſhall gather blackneſs, when they ſhall implore the pity of
+<pb n="16" facs="tcp:106838:15"/>Mountains and Rocks to fall upon them, and hide them from the preſence of him that fitteth on the Throne; then ſhall we ſtand acquitted and accepted; we ſhall have boldneſs in that day.</p>
+            <p>
+               <hi>Which the Lord of his infinite mercy grant, and that for the merits of his dear Son and our bleſſed Saviour Je<g ref="char:EOLhyphen"/>ſus Chriſt; to whom with the Fa<g ref="char:EOLhyphen"/>ther and Holy Ghoſt, be all Honour and Adoration henceforth and for ever.</hi> Amen.</p>
+            <trailer>F I N I S.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
